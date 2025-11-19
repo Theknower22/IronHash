@@ -59,7 +59,7 @@ python IronHash.py
 
 ```
 sudo apt install python3
-`
+```
 
 2. Navigate to the project location:
 
